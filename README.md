@@ -2,6 +2,9 @@
 
 Una app pequeña de Flutter para ver **Model–View–Intent** en funcionamiento, basada en el contador de la presentación y el guion adjuntos. Interfaz en español, adaptable a móvil y escritorio, con incrementar, decrementar, reiniciar y un historial de las últimas ocho transiciones.
 
+## Video de la exposición:
+https://youtu.be/W_eoO2dOqYU
+
 ## Ejecutar
 
 Necesitas Flutter con Dart 3.11 o superior y un dispositivo compatible. No requiere cuentas, claves, backend ni paquetes externos en ejecución.
